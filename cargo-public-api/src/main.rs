@@ -1,5 +1,6 @@
 // deny in CI, only warn here
 #![warn(clippy::all)]
+TEST DINGUS
 
 use std::ffi::OsString;
 use std::io::{stderr, stdout};
